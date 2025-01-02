@@ -1,4 +1,4 @@
-# ox_target
+# ox_target for qbox
 
 ![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
 ![](https://img.shields.io/github/downloads/overextended/ox_target/latest/total?logo=github)
