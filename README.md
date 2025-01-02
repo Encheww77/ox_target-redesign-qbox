@@ -1,6 +1,6 @@
 # ox_target for qbox
 
-https://github.com/user-attachments/assets/979e4b5c-4d61-460d-bb97-b6067650c690
+https://github.com/user-attachments/assets/70414af4-b79e-4432-aa4b-de54c08ebdbd
 
 ![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
 ![](https://img.shields.io/github/downloads/overextended/ox_target/latest/total?logo=github)
